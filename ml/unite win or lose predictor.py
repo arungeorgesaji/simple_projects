@@ -1,0 +1,12 @@
+print("tell yes if the team mentioned got the objective and no if they didnt")
+ar1=input("your team-1st rotom:")
+ar2=input("your team-2nd rotom:")
+ad1=input("your team-1st drednaw:")
+ad2=input("your team-2nd drednaw:")
+az=input("your team-zapdos")
+
+or1=input("opponent team-1st rotom:")
+or2=input("opponent team-2nd rotom:")
+od1=input("opponent team-1st drednaw:")
+od2=input("opponent team-2nd drednaw:")
+oz=input("opponent team-zapdos")
