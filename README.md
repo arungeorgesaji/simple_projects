@@ -1,1 +1,1 @@
-# simple_reddit_sign_in_automation
+# simple_python_projects
