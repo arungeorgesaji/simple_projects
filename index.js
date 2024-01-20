@@ -7,7 +7,7 @@ import fetch from "node-fetch"; // Make sure to install 'node-fetch' using npm o
 import readline from "readline";
 import { createSpinner } from "nanospinner";
 
-const apiKey = "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";
+const apiKey = "";
 const endpoint = "https://api.openai.com/v1/chat/completions";
 
 const sleep_rainbow = (ms = 1500) => new Promise((r) => setTimeout(r, ms));
